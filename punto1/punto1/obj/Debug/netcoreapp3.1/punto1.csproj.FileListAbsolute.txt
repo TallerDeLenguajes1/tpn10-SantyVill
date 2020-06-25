@@ -1,0 +1,13 @@
+C:\Repogit\tpn10-SantyVill\punto1\punto1\bin\Debug\netcoreapp3.1\punto1.exe
+C:\Repogit\tpn10-SantyVill\punto1\punto1\bin\Debug\netcoreapp3.1\punto1.deps.json
+C:\Repogit\tpn10-SantyVill\punto1\punto1\bin\Debug\netcoreapp3.1\punto1.runtimeconfig.json
+C:\Repogit\tpn10-SantyVill\punto1\punto1\bin\Debug\netcoreapp3.1\punto1.runtimeconfig.dev.json
+C:\Repogit\tpn10-SantyVill\punto1\punto1\bin\Debug\netcoreapp3.1\punto1.dll
+C:\Repogit\tpn10-SantyVill\punto1\punto1\bin\Debug\netcoreapp3.1\punto1.pdb
+C:\Repogit\tpn10-SantyVill\punto1\punto1\obj\Debug\netcoreapp3.1\punto1.csprojAssemblyReference.cache
+C:\Repogit\tpn10-SantyVill\punto1\punto1\obj\Debug\netcoreapp3.1\punto1.AssemblyInfoInputs.cache
+C:\Repogit\tpn10-SantyVill\punto1\punto1\obj\Debug\netcoreapp3.1\punto1.AssemblyInfo.cs
+C:\Repogit\tpn10-SantyVill\punto1\punto1\obj\Debug\netcoreapp3.1\punto1.csproj.CoreCompileInputs.cache
+C:\Repogit\tpn10-SantyVill\punto1\punto1\obj\Debug\netcoreapp3.1\punto1.dll
+C:\Repogit\tpn10-SantyVill\punto1\punto1\obj\Debug\netcoreapp3.1\punto1.pdb
+C:\Repogit\tpn10-SantyVill\punto1\punto1\obj\Debug\netcoreapp3.1\punto1.genruntimeconfig.cache
